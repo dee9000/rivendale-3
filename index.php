@@ -120,7 +120,7 @@
                         <img src="img/sample2.png" class="card-img-top" alt="...">
                         <div class="card-body reveal">
                            <h5 class="card-title">Admissions</h5>
-                           <p class="card-text">Getting into Rivendale, requirements, dates, forms etc.</p>
+                           <p class="card-text">Getting into Rivendale, requirements, dates etc.</p>
                            <br><button type="button" class="btn"><a href="admissions.php"><span> &rarr; <span></a></button>
                         </div>
                      </div>
