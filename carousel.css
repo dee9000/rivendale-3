@@ -14,7 +14,7 @@ body {
 
 body p{
 font-family: 'Roboto Condensed', sans-serif;
-font-size:17px;
+font-size:20px;
 }
 
 
@@ -441,7 +441,7 @@ background-color: #f7f2e9;
 	-ms-transition: 0.30s;
 	-o-transition: 0.30s;
 }
-.welcome .featurette img:hover {
+.welcome .col-md-5 img:hover {
 	width: 100%;
 	height: auto;
 	border-radius: 13px;
@@ -592,6 +592,18 @@ background-color: #f7f2e9;
   }
 
   }
+	/*MEDIA QUERY TO REMOVE FEATURETTES FROM WELCOME COMPLETELY FOR MOBILE*/
+	@media screen and (max-width: 767px) {
+			.welcome{
+				display:none;
+			}
+			.carousel-inner .carousel-item img {
+				min-height: 50vh;
+			}
+			#svg-container-one{
+				display:none;
+			}
+	}
 
 
 /*SVG NUMBER ONE ABOVE BOX MENU*/
@@ -655,8 +667,7 @@ background-color: #f7f2e9;
 	margin:20px;
 	padding:32px;
 	transform: translate(0px,-50px);/*OVERLAPPING DIVS OVER IMAGE*/
-	-webkit-box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.30);
-	box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.30);
+
 
 }
 
@@ -710,7 +721,7 @@ background-color: #f7f2e9;
 .box-menu .btn {
 	-webkit-box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.17);
 	box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.17);
-	padding: 0.8em 1.2em;
+	padding: 0.6em 1.0em;
 	background-color: #de4710;
 	color: #FBFBFD;
 	font-weight: 600;
@@ -1076,7 +1087,7 @@ right: 5%;
 /*SHAPE ABOVE SOCIAL FEED*/
 .custom-shape-divider-bottom-1666018589 {
     position: absolute;
-    bottom: 0;
+    bottom: -3px;
     left: 0;
     width: 100%;
     overflow: hidden;
@@ -1609,6 +1620,8 @@ img {
     border-style: none;
 }
 
+
+
 /* Contact Us
 ---------------------*/
 .contact-name {
@@ -1978,6 +1991,12 @@ img {
     .timeline-box:nth-child(2n + 1) {
         padding: 0 0 0 140px;
     }
+		.blog-aside{
+		  transform: translate(0px,0px);/*OVERLAPPING DIVS OVER */
+		}
+		.internal-container{
+		  transform: translate(0px,0px);/*OVERLAPPING DIVS OVER */
+		}
 }
 @media screen and (max-width: 767px) {
     .history-wrapper:after,
@@ -2072,7 +2091,6 @@ img {
   box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
   border-radius: 10px;
   background: #011F5B;
-	background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
   padding: 20px;
   margin: -30px 20px 0;
   position: relative;
@@ -2164,8 +2182,10 @@ img {
 	font-family: 'Prata', serif;
 	border-radius:10px 10px 0 0!important;
 	background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
+}
 
-
+.card-header-news .card-text{
+	font-size:21px;
 }
 .news-container .card{
 	border:none;
@@ -2174,7 +2194,6 @@ img {
 	box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
 	border-radius: 10px;
 	background: #011F5B;
-	background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
 	padding: 40px;
 	margin: -30px 20px 0;
 }
@@ -2301,7 +2320,7 @@ img {
 	display: none;
 	z-index: 1;
 	background-color: #de4710;
-	padding: 0.8em 1.2em;
+	padding: 0.6em 1.0em;
 	color: #FBFBFD;
 	font-weight: 600;
 	font-size: 18px;

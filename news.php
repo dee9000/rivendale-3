@@ -42,7 +42,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Visit to higgins farm</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -62,7 +61,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Yorkshire trip</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -82,7 +80,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Awards ceremony</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -104,7 +101,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Debate competition</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -124,7 +120,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Parliament visit</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -144,7 +139,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Day trip to the zoo</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -166,7 +160,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Mayor Visit</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -186,7 +179,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Theatre Play</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>
@@ -206,7 +198,6 @@
                             </div>
                             <div class="blog-info">
                                 <h5><a href="#">Arts Day Visit</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
                                 <div class="btn-bar">
                                     <a href="#" class="px-btn-arrow">
                                         <span>Read More</span>

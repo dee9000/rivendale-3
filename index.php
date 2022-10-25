@@ -85,7 +85,6 @@
                      <div class="right-align">
                         <h3 class="font-italic">Parent</h3>
                         <p class="font-italic">Mrs O'Connor</p>
-                        <br><button type="button" class="btn"><span> &rarr; </span></button>
 
                      </div>
                   </div>
@@ -93,7 +92,7 @@
             </div>
          </section>
          <!--SVG CONTAINER-->
-         <div class="svg-container">
+         <div class="svg-container" id="svg-container-one">
            <div class="custom-shape-divider-bottom-1666019128">
          <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
              <path d="M1200 120L0 16.48 0 0 1200 0 1200 120z" class="shape-fill"></path>
@@ -402,7 +401,8 @@
             <div class=" container-fluid wrapabout">
                <div class="row">
                   <div class="col-lg-6 mt-5 mt-lg-0">
-                   <a class="twitter-timeline" data-height="505" href="https://twitter.com/SchudioTv?ref_src=twsrc%5Etfw">Tweets by SchudioTv</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>                  </div>
+                   <a class="twitter-timeline" data-height="505" href="https://twitter.com/SchudioTv?ref_src=twsrc%5Etfw">Tweets by SchudioTv</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                  </div>
                   <div class="col-lg-6 mt-5 mt-lg-0">
                      <figure class="potoaboutwrap">
                         <img src="img/sample8.png" alt="potoabout" />

@@ -38,7 +38,7 @@
       </div>
       <header>
         <!-- create your responsive navbar -->
-        <nav class="navbar navbar-dark navbar-expand-lg" id="myNavbar">
+        <nav class="navbar navbar-light navbar-expand-lg" id="myNavbar">
            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
            <span class="navbar-toggler-icon"></span>
            </button>

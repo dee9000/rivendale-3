@@ -5,6 +5,7 @@
       <h1 class="display-3">About Us</h1>
    </div>
 </div>
+
 <div class="svg-container">
   <div class="custom-shape-divider-bottom-1666173282">
       <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
@@ -12,6 +13,7 @@
       </svg>
   </div>
 </div>
+
 <!--content section-->
 <div class="blog-single gray-bg">
    <div class="container">
